@@ -1,0 +1,4 @@
+0.0.0.0 bing.com
+0.0.0.0 google.com
+bing.com
+www.bing.com
